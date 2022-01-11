@@ -7,9 +7,8 @@ public class HelloWorld {
 
     /*
     Klassens main-metode.
-    Innholdet av main-metoden definerer hva som kodesekvensen ved kjøring av applikasjonen.
-    Denne må være inkludert og definert på følgende måte
-    for at en applikasjon skal bygge og kjøre.
+    Innholdet av main-metoden definerer kodesekvensen ved kjøring av applikasjonen.
+    Denne må være inkludert og definert på følgende måte for at en applikasjon skal bygge og kjøre.
      */
     public static void main(String[] args) {
         // Skriver ut "Hello World!" til output
