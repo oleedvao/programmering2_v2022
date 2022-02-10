@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46b79d2d-a9a3-45b0-8b84-3326946b080c" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="24pOfveUXvdYTNtUrZwlbXzQs1x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.Bonus3_3">
+    <configuration name="Bonus3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.oleedvao.oblig1.Bonus3_1" />
+      <module name="Oblig1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hiof.oleedvao.oblig1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bonus3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.oleedvao.oblig1.Bonus3_2" />
+      <module name="Oblig1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hiof.oleedvao.oblig1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bonus3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.oleedvao.oblig1.Bonus3_3" />
+      <module name="Oblig1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hiof.oleedvao.oblig1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oppgave2_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.oleedvao.oblig1.Oppgave2_2" />
+      <module name="Oblig1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hiof.oleedvao.oblig1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oppgave2_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hiof.oleedvao.oblig1.Oppgave2_3" />
+      <module name="Oblig1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hiof.oleedvao.oblig1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bonus3_3" />
+        <item itemvalue="Application.Bonus3_2" />
+        <item itemvalue="Application.Bonus3_1" />
+        <item itemvalue="Application.Oppgave2_3" />
+        <item itemvalue="Application.Oppgave2_2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46b79d2d-a9a3-45b0-8b84-3326946b080c" name="Changes" comment="" />
+      <created>1644324169913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644324169913</updated>
+    </task>
+    <servers />
+  </component>
+</project>
