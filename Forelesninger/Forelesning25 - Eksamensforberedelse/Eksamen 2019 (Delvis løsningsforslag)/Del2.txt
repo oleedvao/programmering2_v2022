@@ -1,0 +1,27 @@
+2.1
+Hvilke OOP prinsipper vises i følgende kode?
+ - Arv og polymorfi
+ - polymorfi
+ * Innkapsling og Arv
+ - Arv
+
+2.2
+Hva blir utskriften fra dette programmet?
+ - 200
+ * 20
+ - 100
+ - 1000
+
+2.3
+Hva blir utskriften fra dette programmet?
+ - Vanlig dyr, Vanlig dyr, Vanlig dyr,
+ * Vanlig dyr, Honninggrevling, Honninggrevling,
+ - Honninggrevling, Honninggrevling, Honninggrevling,
+ - Vanlig dyr, Vanlig dyr, Honninggrevling,
+
+2.4
+Hva blir utskriften fra dette programmet?
+ - [7, 5, 3, 2]
+ * [2, 3, 5, 7]
+ - [2, 5, 7, 3]
+ - Kompileringsfeil
