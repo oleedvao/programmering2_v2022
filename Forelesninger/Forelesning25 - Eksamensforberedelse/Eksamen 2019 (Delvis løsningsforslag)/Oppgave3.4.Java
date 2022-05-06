@@ -6,13 +6,14 @@ public class Video extends Spillbar {
     public Video(String navn, Lyd lyd, BildeSekvens bildeSekvens) {
         // Benytter en ny metode getLengsteVarighet() inline i super() for
         // å sende med den største varigheten mellom lyden og bildesekvensen.
+        // Merk at dette er påkrevt at getLengsteVarighet() er static.
         super(navn, getLengsteVarighet(lyd, bildeSekvens));
         this.lyd = lyd;
         this.bildeSekvens = bildeSekvens;
 
     }
 
-    public int getLengsteVarighet(Lyd lyd, BildeSekvens bildesekvens) {
+    public static int getLengsteVarighet(Lyd lyd, BildeSekvens bildeSekvens) {
         // Returnerer den lengste varigheten mellom et Lyd-objekt og et
         // BildeSekvens-objekt
         if (bildeSekvens.getVarighet() > lyd.getVarighet()) {
