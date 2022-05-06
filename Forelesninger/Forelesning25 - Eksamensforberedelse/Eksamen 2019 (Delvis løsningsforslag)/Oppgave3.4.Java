@@ -4,21 +4,23 @@ public class Video extends Spillbar {
     private BildeSekvens bildeSekvens;
 
     public Video(String navn, Lyd lyd, BildeSekvens bildeSekvens) {
+        // Benytter en ny metode getLengsteVarighet() inline i super() for
+        // å sende med den største varigheten mellom lyden og bildesekvensen.
+        super(navn, getLengsteVarighet(lyd, bildeSekvens));
         this.lyd = lyd;
         this.bildeSekvens = bildeSekvens;
 
-        // Sjekker om lyden eller bildesekvensens varighet er størst, setter
-        // den største verdien til å være den gjeldene.
-        int varighet = 0;
+    }
+
+    public int getLengsteVarighet(Lyd lyd, BildeSekvens bildesekvens) {
+        // Returnerer den lengste varigheten mellom et Lyd-objekt og et
+        // BildeSekvens-objekt
         if (bildeSekvens.getVarighet() > lyd.getVarighet()) {
-            varighet = bildeSekvens.getVarighet();
+            return bildeSekvens.getVarighet();
         }
         else {
-            varighet = lyd.getVarighet();
+            return lyd.getVarighet();
         }
-
-        // Sender de endelige verdiene opp til Spillbar sin konstruktør.
-        super(navn, varighet);
     }
 
     // Vi later som gettere og settere er inkludert. Jeg utelater det
